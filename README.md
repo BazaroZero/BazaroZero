@@ -7,6 +7,7 @@
 
 - I've recently graduated from the Lyceum of the Yandex Academy
 - Next I will be learning FastAPI and JavaScript with its frameworks
+- Did a bit of ML and CyberSec (participated in CTFs), but now focuses on web development
 - I have some big and interesting project ideas that will soon be developing in my repos
 
 **Stay tuned!**
